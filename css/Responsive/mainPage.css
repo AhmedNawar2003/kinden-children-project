@@ -1,0 +1,1190 @@
+@media (max-width: 1500px) {
+  .events .service-img,
+  .blogs .service-img {
+    left: 5% !important;
+  }
+  .posts .service-img{
+    left: 6.5% !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .home h2 {
+    font-size: 55px !important;
+  }
+  .about h2 {
+    font-size: 55px !important;
+  }
+  .about .second-p,
+  .third-p {
+    padding-right: 0 !important;
+  }
+  .about .phone-volume {
+    margin-inline-start: -35px !important;
+  }
+  .posts .card-heading h2,
+  .events .card-heading h2,
+  .session .card-heading h2,
+  .testimonial .card-heading h2,
+  .adventure .card-heading h2,
+  .blogs .card-heading h2 {
+    font-size: 50px !important;
+  }
+  .posts .card-content h3 {
+    font-size: 22px !important;
+  }
+  .journeys h2,
+  .snake h2 {
+    font-size: 50px !important;
+  }
+  .events .service-img,
+  .blogs .service-img {
+    width: 280px !important;
+    left: 2% !important;
+  }
+  .testimonial .card-body {
+    top: 0px !important;
+    left: 5px !important;
+  }
+  .testimonial .card-body p {
+    font-size: 15px !important;
+  }
+  .blogs .august {
+    font-size: 10px !important;
+  }
+  .blogs .service-img h3 {
+    font-size: 16px !important;
+  }
+  .blogs .service-img p {
+    font-size: 14px !important;
+  }
+  .blogs .bottom {
+    a {
+      font-family: Medium-dosis;
+      font-size: 14px !important;
+    }
+  }
+  .footer .logo {
+    width: 100px !important;
+  }
+  .footer h2 {
+    font-size: 20px !important;
+  }
+  .footer
+    .footer
+    .input-group
+    > :not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(
+      .valid-feedback
+    ):not(.invalid-tooltip):not(.invalid-feedback) {
+    width: 50px;
+  }
+  .footer
+    .input-group:not(.has-validation)
+    > .dropdown-toggle:nth-last-child(n + 3),
+  .input-group:not(.has-validation)
+    > :not(:last-child):not(.dropdown-toggle):not(.dropdown-menu) {
+    font-size: 15px;
+  }
+  .footer .default-btn i {
+    font-size: 14px !important;
+    position: relative;
+    right: 8px;
+  }
+  .footer p,
+  .list-text,
+  .second-ul li {
+    font-size: 0.833rem !important;
+  }
+  .footer-bottom .side-arrow {
+    i {
+      font-size: 1rem !important;
+    }
+  }
+}
+/* ************************************* */
+@media (max-width: 1024px) {
+  .header .navbar .nav-link {
+    font-size: 18px !important;
+  }
+  .header .buttuns .offcanvas-header .card-img {
+    width: 100px !important;
+  }
+  .header .offcanvas-body ul li:first-of-type {
+    font-size: 25px !important;
+  }
+  .home h2 {
+    font-size: 32px !important;
+  }
+  .home .girl-img,
+  .home .boy-img {
+    width: 250px !important;
+  }
+  .about h2 {
+    font-size: 32px !important;
+  }
+  .about .about-giraffe-img {
+    top: 43% !important;
+    width: 130px !important;
+  }
+  .about .about-girl-img {
+    width: 400px;
+  }
+  .home h2,
+  .about h2 {
+    & span {
+      &::after {
+        height: 5px !important;
+        bottom: 4px !important;
+      }
+    }
+  }
+  .posts .service-img {
+    width: 280px !important;
+    left: 1% !important;
+    top: 69% !important;
+  }
+
+  .posts .card-heading h2,
+  .events .card-heading h2,
+  .session .card-heading h2,
+  .testimonial .card-heading h2,
+  .adventure .card-heading h2,
+  .blogs .card-heading h2 {
+    font-size: 32px !important;
+  }
+  .journeys h2,
+  .snake h2 {
+    font-size: 30px !important;
+  }
+  .posts .card-heading h2,
+  .session .card-heading h2,
+  .testimonial .card-heading h2,
+  .adventure .card-heading h2 {
+    flex-direction: row !important;
+  }
+  .posts .card-heading h2,
+  .testimonial .card-heading h2 {
+    & span {
+      &::after {
+        bottom: 18px !important;
+        height: 5px !important;
+      }
+    }
+  }
+  .posts .card-content h3 {
+    font-size: 19px !important;
+  }
+  .posts .card-content p {
+    font-size: 16px !important;
+  }
+  .posts .card-content span {
+    i {
+      font-size: 40px !important;
+      bottom: 77% !important;
+    }
+  }
+  .posts .card-content a {
+    top: 107% !important;
+    i {
+      font-size: 18px !important;
+    }
+  }
+  .journeys .svg-img {
+    width: 270px !important;
+  }
+  .journeys .content h3 {
+    margin-bottom: 0 !important;
+  }
+  .journeys .content p {
+    position: relative !important;
+    top: 18px;
+  }
+  .journeys h2,
+  .snake h2 {
+    & span {
+      &::after {
+        bottom: 2px !important;
+        height: 5px !important;
+      }
+    }
+  }
+  .journeys .content h3,
+  .events .service-img h3,
+  .testimonial .card-body h3 {
+    font-size: 18px !important;
+  }
+  .journeys .text {
+    font-size: 14px !important;
+    top: 13px !important;
+    left: 49% !important;
+  }
+  .journeys .content p,
+  .events .service-img p {
+    font-size: 15px !important;
+    left: 13px !important;
+  }
+  .journeys .content a {
+    top: 138% !important;
+    i {
+      font-size: 18px !important;
+    }
+  }
+  .journeys .carousel-indicators {
+    bottom: 145px !important;
+  }
+  .snake .animal,
+  .snake .snake-img,
+  .events .cat-img,
+  .events .tree-img,
+  .blogs .tree-img,
+  .blogs .bear-img {
+    width: 200px !important;
+  }
+  .events .service-img .event-date .day {
+    font-size: 20px !important;
+  }
+  .events .service-img .bottom {
+    font-size: 14px !important;
+  }
+  .session .card-heading h2,
+  .adventure .card-heading h2 {
+    & span {
+      &::after {
+        bottom: 15px !important;
+        height: 5px !important;
+      }
+    }
+  }
+  .blogs .card-heading h2 {
+    & span {
+      &::after {
+        height: 4px !important;
+        bottom: 7px !important;
+      }
+    }
+  }
+  .adventure .right-img,
+  .left-img {
+    width: 250px !important;
+    bottom: 50px !important;
+  }
+  .footer h2 {
+    font-size: 18px !important;
+  }
+  .footer .label {
+    font-size: 16px !important;
+  }
+  .footer
+    .footer
+    .input-group
+    > :not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(
+      .valid-feedback
+    ):not(.invalid-tooltip):not(.invalid-feedback) {
+    width: 25px !important;
+  }
+  .footer
+    .input-group:not(.has-validation)
+    > .dropdown-toggle:nth-last-child(n + 3),
+  .input-group:not(.has-validation)
+    > :not(:last-child):not(.dropdown-toggle):not(.dropdown-menu) {
+    font-size: 13px !important;
+  }
+  .footer .default-btn i {
+    font-size: 14px !important;
+    right: 3px !important;
+  }
+  .footer-bottom .side-arrow {
+    height: 40px !important;
+    width: 40px !important;
+    right: 22px !important;
+  }
+}
+
+/* ************************************* */
+@media (max-width: 992px) {
+  .header {
+    position: static !important;
+    height: auto !important;
+    background-color: transparent;
+  }
+  .header .navbar .navbar-brand {
+    width: 90px !important;
+    margin-top: -10px !important;
+  }
+  .header .navbar .nav-link {
+    font-size: 15px !important;
+  }
+  .header svg {
+    width: 18px !important;
+  }
+  .default-btn {
+    font-size: 14px !important;
+  }
+  .navbar-toggler:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+  }
+  .header .buttuns .offcanvas-header .card-img {
+    width: 90px !important;
+  }
+  .offcanvas-header .btn-close {
+    margin-top: -1.5rem !important;
+    font-size: 14px;
+  }
+  .header .offcanvas-body ul li:first-of-type {
+    font-size: 22px !important;
+  }
+  .header .offcanvas-body ul {
+    & li {
+      span {
+        font-size: 16px !important;
+      }
+    }
+  }
+  .header .offcanvas-body ul {
+    li {
+      font-size: 18px !important;
+    }
+  }
+  .home {
+    height: auto !important;
+  }
+  .home h2 {
+    font-size: 22px !important;
+  }
+  .home .girl-img,
+  .home .boy-img {
+    width: 200px !important;
+  }
+  .home .enroll {
+    width: 90px !important;
+  }
+  .home p {
+    font-size: 15px !important;
+  }
+  .about .about-girl-img {
+    width: 300px !important;
+  }
+  .about .about-giraffe-img {
+    width: 75px !important;
+    left: 50% !important;
+  }
+  .about .about-hat-img,
+  .about .about-tv-img,
+  .about .about-iNK-img {
+    width: 60px !important;
+  }
+  .about {
+    height: 600px !important;
+    margin-bottom: 0 !important;
+    padding-top: 30px !important;
+  }
+  .about h2 {
+    font-size: 20px !important;
+  }
+  .home h2,
+  .about h2,
+  .events .card-heading h2,
+  .blogs .card-heading h2 {
+    & span {
+      &::after {
+        height: 4px !important;
+        bottom: 4px !important;
+      }
+    }
+  }
+  .about p {
+    font-size: 15px !important;
+  }
+  .about .kg-tree,
+  .about .kg-uniform {
+    i {
+      font-size: 20px !important;
+      margin-top: 15px;
+    }
+  }
+  .about .card-bottom {
+    margin-inline-start: -33px !important;
+  }
+  .about .last-content {
+    i {
+      font-size: 25px !important;
+      margin-inline-start: 20px;
+    }
+  }
+  .posts .card-heading h2,
+  .events .card-heading h2,
+  .session .card-heading h2,
+  .testimonial .card-heading h2,
+  .adventure .card-heading h2,
+  .blogs .card-heading h2 {
+    font-size: 20px !important;
+  }
+  .posts,
+  .journeys,
+  .testimonial {
+    height: 800px !important;
+  }
+  .snake,
+  .events,
+  .blogs {
+    height: 750px !important;
+  }
+  .posts .card-heading h2,
+  .testimonial .card-heading h2 {
+    & span {
+      &::after {
+        bottom: 24px !important;
+        height: 5px !important;
+      }
+    }
+  }
+  .posts .card-heading p {
+    font-size: 15px !important;
+  }
+  .snake .animal,
+  .snake .snake-img,
+  .events .cat-img,
+  .events .tree-img,
+  .blogs .tree-img,
+  .blogs .bear-img {
+    width: 150px !important;
+  }
+  .posts .service-img {
+    width: 250px !important;
+    left: 12% !important;
+    top: 68% !important;
+    height: 270px;
+  }
+  .posts .shape,
+  .posts .span-shape-1 {
+    width: 60px !important;
+    height: 60px !important;
+    top: 20px;
+  }
+  .posts .card-content span {
+    i {
+      font-size: 20px !important;
+      bottom: 75% !important;
+    }
+  }
+  .posts .card-content h3 {
+    font-size: 17px !important;
+    line-height: 0 !important;
+    margin-top: 2px !important;
+  }
+  .posts .card-content h3 {
+    span {
+      margin-top: -30px !important;
+    }
+  }
+  .posts .card-content span {
+    width: auto !important;
+    height: 100px !important;
+    margin-bottom: 0 !important;
+  }
+  .posts .card-content p {
+    font-size: 14px !important;
+    bottom: 14px !important;
+  }
+  .posts .card-content a {
+    width: 40px !important;
+    height: 40px !important;
+    top: 118% !important;
+    i {
+      font-size: 14px !important;
+    }
+  }
+  .posts,
+  .journeys,
+  .posts,
+  .events,
+  .testimonial,
+  .blogs {
+    .card-3 {
+      display: none;
+    }
+  }
+  .journeys h2,
+  .snake h2 {
+    font-size: 20px !important;
+  }
+  .journeys .default-btn {
+    font-size: 14px !important;
+    margin-bottom: 50px;
+  }
+  .journeys .first-p {
+    font-size: 15px !important;
+  }
+  .snake .animal {
+    left: 140px !important;
+    top: 200px !important;
+  }
+  .snake h2 {
+    margin-bottom: 0 !important;
+  }
+  .snake p,
+  .events .card-heading p {
+    font-size: 15px !important;
+  }
+  .events .card-heading h2 {
+    padding-right: 0 !important;
+  }
+  .events .service-img,
+  .blogs .service-img {
+    left: 8% !important;
+  }
+  .events .service-img .event-date .day {
+    font-size: 18px !important;
+  }
+  .session {
+    height: auto !important;
+    margin-bottom: 50px !important;
+    .card {
+      margin-bottom: 50px;
+    }
+  }
+  .session .card-heading h2,
+  .adventure .card-heading h2 {
+    & span {
+      &::after {
+        bottom: 22px !important;
+      }
+    }
+  }
+  .footer p,
+  .list-text,
+  .second-ul li {
+    font-size: 0.778rem !important;
+  }
+  .carousel-indicators {
+    display: none;
+  }
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+/* ************************************* */
+@media (max-width: 768px) {
+  .home .girl-img,
+  .home .boy-img {
+    width: 140px !important;
+    top: 50px;
+  }
+  .home .girl-img {
+    left: 80px !important;
+  }
+  .home .enroll {
+    width: 60px !important;
+  }
+  .home h4,
+  .about h4,
+  .posts .card-heading h4,
+  .journeys h4,
+  .snake h4,
+  .events .card-heading h4,
+  .session .card-heading h4,
+  .testimonial .card-heading h4,
+  .adventure .card-heading h4,
+  .blogs .card-heading h4 {
+    font-size: 14px !important;
+  }
+  .home h2,
+  .about h2,
+  .posts .card-heading h2,
+  .journeys h2,
+  .snake h2,
+  .events .card-heading h2,
+  .session .card-heading h2,
+  .testimonial .card-heading h2,
+  .adventure .card-heading h2,
+  .blogs .card-heading h2 {
+    font-size: 15px !important;
+    margin-bottom: 0 !important;
+    margin-top: -20px;
+  }
+  .home p,
+  .about p,
+  .posts .card-heading p,
+  .snake p,
+  .events .card-heading p,
+  .session .card-heading p,
+  .testimonial .card-heading p,
+  .adventure .card-heading p,
+  .blogs .card-heading p {
+    font-size: 12px !important;
+    margin-top: -20px;
+  }
+  .default-btn {
+    font-size: 12px !important;
+  }
+  .home h2,
+  .about h2,
+  .events .card-heading h2,
+  .blogs .card-heading h2 {
+    & span {
+      &::after {
+        height: 4px !important;
+        bottom: 2px !important;
+      }
+    }
+  }
+  .about .about-girl-img {
+    width: 220px !important;
+  }
+  .about .about-giraffe-img {
+    width: 75px !important;
+    left: 50% !important;
+  }
+  .about .about-hat-img,
+  .about .about-tv-img,
+  .about .about-iNK-img {
+    width: 40px !important;
+  }
+  .about .about-tv-img {
+    left: -11px !important;
+  }
+  .about .content,
+  .last-content {
+    display: block !important;
+  }
+  .about .second-p,
+  .third-p {
+    padding-right: 0 !important;
+    margin-top: 12px !important;
+  }
+  .about .card-bottom p {
+    margin-top: 5px;
+  }
+  .about .last-content {
+    i {
+      margin-top: 15px;
+      margin-inline-start: 38px !important;
+    }
+  }
+  .about .card-bottom {
+    margin-inline-start: -27px !important;
+    margin-top: 10px;
+  }
+  .about .card-left {
+    margin-top: 100px;
+  }
+  .posts {
+    height: 717px !important;
+  }
+  .posts .service-img {
+    width: 185px !important;
+    left: 20% !important;
+  }
+  .posts .card-content h3 {
+    font-size: 14px !important;
+  }
+  .posts .card-content p {
+    font-size: 13px !important;
+    bottom: 30px !important;
+  }
+  .posts .card-content a {
+    width: 30px !important;
+    height: 30px !important;
+    top: 107% !important;
+  }
+  .posts .monkey-img {
+    width: 100px !important;
+  }
+  .journeys h2,
+  .snake h2 {
+    & span {
+      &::after {
+        bottom: 2px !important;
+        height: 2px !important;
+      }
+    }
+  }
+  .journeys .first-p {
+    font-size: 12px !important;
+  }
+  .journeys .svg-img {
+    width: 230px !important;
+  }
+  .journeys .inner-svg {
+    width: 100px !important;
+  }
+  .journeys .text {
+    font-size: 10px !important;
+    top: 3px !important;
+  }
+  .journeys .content h3,
+  .events .service-img h3,
+  .testimonial .card-body h3 {
+    font-size: 14px !important;
+  }
+  .journeys .content p,
+  .events .service-img p {
+    font-size: 12px !important;
+    left: 14px !important;
+    bottom: -14px;
+  }
+  .journeys .content h3 {
+    margin-bottom: 0 !important;
+  }
+  .journeys .content a {
+    top: 138% !important;
+    width: 30px !important;
+    height: 30px !important;
+    i {
+      font-size: 14px !important;
+    }
+  }
+  .snake .animal,
+  .snake .snake-img,
+  .events .cat-img,
+  .events .tree-img,
+  .blogs .tree-img,
+  .blogs .bear-img {
+    width: 90px !important;
+  }
+  .snake .animal {
+    left: 120px !important;
+    top: 180px !important;
+  }
+  .snake .experience,
+  .creativity {
+    font-size: 14px !important;
+  }
+  .snake .percent {
+    font-size: 12px;
+  }
+  .home h2,
+  .about h2,
+  .events .card-heading h2,
+  .blogs .card-heading h2 {
+    & span {
+      &::after {
+        height: 3px !important;
+        bottom: 1px !important;
+      }
+    }
+  }
+  .events,
+  .snake {
+    height: 750px !important;
+  }
+  .events .service-img,
+  .blogs .service-img {
+    width: 200px !important;
+    height: 300px !important;
+    left: 20% !important;
+  }
+  .events .service-img .event-date {
+    .month {
+      font-size: 10px !important;
+    }
+    .day {
+      font-size: 12px !important;
+    }
+  }
+  .events .service-img .bottom {
+    font-size: 10px !important;
+  }
+  .events .service-img .bottom {
+    span {
+      font-size: 10px !important;
+    }
+  }
+  .session .card-body h3 {
+    font-size: 18px !important;
+  }
+  .session .card-body h4 {
+    font-size: 14px !important;
+  }
+  .posts .card-heading h2,
+  .testimonial .card-heading h2 {
+    & span {
+      &::after {
+        bottom: 26px !important;
+        height: 3px !important;
+      }
+    }
+  }
+  .testimonial .card-inner-heading {
+    margin-inline-start: -21px !important;
+  }
+  .testimonial .card-body p {
+    font-size: 12px !important;
+    margin: 20px 0 45px !important;
+  }
+  .testimonial .card-body .card-star {
+    i {
+      font-size: 8px !important;
+    }
+  }
+  .testimonial .card-body h4 {
+    font-size: 12px !important;
+  }
+  .testimonial {
+    height: 700px !important;
+  }
+  .session .card-heading h2,
+  .adventure .card-heading h2 {
+    & span {
+      &::after {
+        bottom: 26px !important;
+        height: 3px !important;
+      }
+    }
+  }
+  .adventure .right-img,
+  .left-img {
+    width: 170px !important;
+    bottom: 140px !important;
+  }
+
+  .blogs .card-heading h2 {
+    padding-right: 0 !important;
+  }
+  .blogs .card-one,
+  .card-two {
+    gap: 0 !important;
+  }
+  .blogs .service-img {
+    padding: 10px !important;
+  }
+  .blogs .top-i {
+    font-size: 10px !important;
+    margin-top: 0 !important;
+  }
+  .blogs .service-img h3 {
+    font-size: 12px !important;
+  }
+  .blogs .service-img h3,
+  .events .service-img h3 {
+    &::after {
+      height: 1px !important;
+    }
+  }
+  .blogs .service-img p {
+    font-size: 11px !important;
+  }
+  .blogs a.btn,
+  .events a {
+    font-size: 10px !important;
+  }
+  .blogs .bottom {
+    a {
+      font-size: 10px !important;
+    }
+  }
+  .blogs {
+    height: 620px !important;
+  }
+  .footer ul,
+  .footer .second-ul {
+    margin-bottom: 30px !important;
+  }
+  .footer .list-text:last-of-type {
+    margin-bottom: 30px !important;
+  }
+  .footer-bottom .card {
+    p {
+      font-size: 12px !important;
+    }
+  }
+  .footer-bottom .side-arrow {
+    height: 30px !important;
+    width: 30px !important;
+    i {
+      font-size: 12px !important;
+    }
+  }
+}
+
+/* ************************************* */
+@media (max-width: 600px) {
+  .home {
+    height: 800px !important;
+    margin-bottom: 0 !important;
+  }
+  .home .card {
+    align-items: center;
+  }
+  .home .card-text {
+    position: relative;
+    top: -50px;
+  }
+  .home .boy-img {
+    left: 25%;
+  }
+  .home .enroll {
+    right: 70px;
+  }
+  .home .girl-img {
+    left: -45px !important;
+  }
+  .home p,
+  .about p,
+  .posts .card-heading p,
+  .snake p,
+  .events .card-heading p,
+  .session .card-heading p,
+  .testimonial .card-heading p,
+  .adventure .card-heading p,
+  .blogs .card-heading p {
+    font-size: 10px !important;
+  }
+  .about {
+    height: 750px !important;
+  }
+
+  .about .about-giraffe-img {
+    width: 60px !important;
+    left: 60% !important;
+  }
+  .about .about-hat-img,
+  .about .about-tv-img,
+  .about .about-iNK-img {
+    width: 40px !important;
+    left: 160px !important;
+  }
+  .about .about-tv-img {
+    left: 140px !important;
+  }
+  .about .card-left {
+    margin-top: 0 !important;
+    align-items: center;
+  }
+  .about .card-bottom {
+    margin-inline-start: -145px !important;
+  }
+  .posts .card-none,
+  .events .card-none{
+    display: none;
+  }
+  .posts .service-img {
+    width: 300px !important;
+    left: 20% !important;
+  }
+  .posts .card-content a {
+    top: 137% !important;
+  }
+  .posts .card-content span {
+    i {
+      bottom: 70% !important;
+    }
+  }
+  .snake {
+    height: 1200px !important;
+  }
+  .snake .animal {
+    left: 303px !important;
+    top: 416px !important;
+  }
+  .events {
+    height: 820px !important;
+  }
+  .events .service-img,
+  .blogs .service-img {
+    width: 300px !important;
+    left: 22% !important;
+    height: 150px !important;
+  }
+  .testimonial {
+    height: 900px !important;
+  }
+  .testimonial .card-img {
+    width: 230px;
+  }
+  .testimonial .carousel-inner .card {
+    align-items: center;
+    p {
+      width: 200px !important;
+      position: relative;
+      bottom: 40px;
+      left: 20px;
+    }
+  }
+  .testimonial .card-body .card-star {
+    display: none !important;
+  }
+  .blogs .card-delete {
+    display: none;
+  }
+  .blogs {
+    height: 800px !important;
+  }
+}
+/* ************************************* */
+@media (max-width: 450px) {
+  .home p,
+  .about p,
+  .posts .card-heading p,
+  .snake p,
+  .events .card-heading p,
+  .session .card-heading p,
+  .testimonial .card-heading p,
+  .adventure .card-heading p,
+  .blogs .card-heading p {
+    font-size: 8px !important;
+  }
+  .posts .service-img {
+    left: 11% !important;
+  }
+  .events .service-img,
+  .blogs .service-img {
+    left: 12% !important;
+  }
+  .testimonial .carousel-inner .card {
+    p {
+      left: -2px !important;
+    }
+  }
+  .adventure .right-img,
+  .left-img {
+    width: 150px !important;
+  }
+}
+/* *********************************************************** */
+@media (max-width: 400px) {
+  .home p,
+  .about p,
+  .posts .card-heading p,
+  .snake p,
+  .events .card-heading p,
+  .session .card-heading p,
+  .testimonial .card-heading p,
+  .adventure .card-heading p,
+  .blogs .card-heading p {
+    font-size: 7px !important;
+  }
+  .about .card-bottom {
+    margin-inline-start: -88px !important;
+  }
+  .posts .service-img {
+    left: 7% !important;
+  }
+  .posts .monkey-img {
+    width: 60px !important;
+  }
+  .blogs .service-img,
+  .events .service-img {
+    left: 5% !important;
+  }
+  .snake .animal {
+    left: 204px !important;
+    top: 238px !important;
+  }
+}
+@media (max-width: 350px) {
+  .home .enroll {
+    right: 28px !important;
+  }
+  .about .card-bottom {
+    margin-inline-start: -88px !important;
+  }
+  .about .about-hat-img,
+  .about .about-iNK-img {
+    left: 54px !important;
+  }
+  .about .about-tv-img {
+    left: 35px !important;
+  }
+  .posts .service-img {
+    left: 2% !important;
+  }
+  .blogs .service-img,
+  .events .service-img {
+    left: 3% !important;
+  }
+}
+/* ************************************* */
+@media (max-width: 330px) {
+  .header .navbar .nav-link {
+    font-size: 10px !important;
+}
+.default-btn{
+  font-size: 10px !important;
+}
+.navbar-toggler-icon i{
+  font-size: 15px;
+}
+.header .offcanvas-body p {
+  font-size: 14px !important;
+}
+.header .offcanvas-body ul {
+  & li {
+      span {
+          font-size: 14px !important;
+      }
+  }
+}
+.header .offcanvas-body ul li:first-of-type {
+  font-size: 18px !important;
+}
+.header .offcanvas-body ul {
+  li {
+      font-size: 14px !important;
+  }
+}
+.header .buttuns .offcanvas-header .card-img {
+  width: 70px !important;
+}
+.header svg {
+  width: 13px !important;
+}
+.header .navbar .navbar-brand {
+  width: 60px !important;
+}
+  .home p,
+  .about p,
+  .posts .card-heading p,
+  .snake p,
+  .events .card-heading p,
+  .session .card-heading p,
+  .testimonial .card-heading p,
+  .adventure .card-heading p,
+  .blogs .card-heading p {
+    font-size: 6px !important;
+  }
+  .posts .service-img {
+    left: -1% !important;
+  }
+  .snake .progress {
+    width: 280px;
+  }
+  .snake .percent {
+    left: 75% !important;
+  }
+  .snake .percent2 {
+    left: 61% !important;
+  }
+  .blogs .service-img,
+  .events .service-img {
+    left: -1% !important;
+  }
+  .adventure .right-img,
+  .left-img {
+    width: 100px !important;
+  }
+  .footer-bottom .card {
+    p {
+      font-size: 8px !important;
+    }
+  }
+  .footer
+    .input-group
+    > :not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(
+      .valid-feedback
+    ):not(.invalid-tooltip):not(.invalid-feedback) {
+    width: 30px;
+  }
+  .footer .default-btn i {
+    right: 6px !important;
+}
+.footer-bottom .side-arrow {
+  height: 20px !important;
+  width: 20px !important;
+}
+}

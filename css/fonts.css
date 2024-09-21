@@ -1,0 +1,57 @@
+@font-face {
+    font-family: light-roboto;
+    src: url("../fonts/Roboto/Roboto-Light.ttf");
+}
+
+@font-face {
+    font-family: Regular-roboto;
+    src: url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: Medium-roboto;
+    src: url("../fonts/Roboto/Roboto-Medium.ttf");
+}
+
+@font-face {
+    font-family: Black-roboto;
+    src: url("../fonts/Roboto/Roboto-Black.ttf");
+}
+
+@font-face {
+    font-family: Bold-roboto;
+    src: url("../fonts/Roboto/Roboto-Bold.ttf");
+}
+/* *************************************************** */
+@font-face {
+    font-family: Extra-light-dosis;
+    src: url("../fonts/Dosis/Dosis-ExtraLight.ttf");
+}
+@font-face {
+    font-family: light-dosis;
+    src: url("../fonts/Dosis/Dosis-Light.ttf");
+}
+
+@font-face {
+    font-family: Regular-dosis;
+    src: url("../fonts/Dosis/Dosis-Regular.ttf");
+}
+
+@font-face {
+    font-family: Medium-dosis;
+    src: url("../fonts/Dosis/Dosis-Medium.ttf");
+}
+
+@font-face {
+    font-family: Semi-Bold-dosis;
+    src: url("../fonts/Dosis/Dosis-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: Bold-dosis;
+    src: url("../fonts/Dosis/Dosis-Bold.ttf");
+}
+@font-face {
+    font-family: Extra-Bold-dosis;
+    src: url("../fonts/Dosis/Dosis-ExtraBold.ttf");
+}

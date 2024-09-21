@@ -1,0 +1,21 @@
+@media (max-width: 992px) {
+    .events{
+     height: 1000px !important;
+    }
+    .events .second-row{
+        margin-bottom: 200px !important;
+    }
+    .home{
+        margin-bottom: 0 !important;
+    }
+    .header .offcanvas {
+     height: fit-content ;
+    }
+ }
+ /* ******************************** */
+ @media (max-width: 600px) {
+    .card-3,
+    .card-none{
+        display: none;
+    }
+ }

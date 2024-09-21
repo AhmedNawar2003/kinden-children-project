@@ -1,0 +1,191 @@
+@media (max-width: 1024px) {
+    .home h1{
+        font-size: 48px !important;
+    }
+    .home h1 {
+        & span {
+            &::after {
+                height: 8px !important;
+                bottom: 4px !important;
+            }
+        }
+    }
+    .turtle h2{
+        font-size: 48px !important;
+        line-height: 45px !important ;
+    }
+    .turtle h2 {
+        & span {
+            &::after {
+                height: 8px !important;
+                bottom: 4px !important;
+            }
+        }
+    }
+    .turtle p{
+        font-size: 19px !important;
+        line-height: 45px !important ;
+    }
+    .turtle ul li{
+        font-size: 17px !important;
+    }
+    .turtle .turtle-img{
+        width: 300px !important;
+    }
+}
+/* ******************************************* */
+@media (max-width: 992px) {
+    .home h1{
+        font-size: 42px !important;
+    }
+    .home p{
+        line-height: 25px !important ;
+        margin-top: 0 !important;
+    }
+    .turtle h2{
+        font-size: 42px !important;
+    }
+    .turtle h2 {
+        & span {
+            &::after {
+                height: 6px !important;
+                bottom: 3px !important;
+            }
+        }
+    }
+    .turtle p{
+        font-size: 18px !important;
+    }
+    .turtle ul li{
+        font-size: 16px !important;
+    }
+    .turtle .turtle-img{
+        width: 250px !important;
+    }
+}
+/* ********************************************** */
+@media (max-width: 768px) {
+    .turtle p{
+        font-size: 17px !important;
+        line-height: 25px !important;
+    }
+    .turtle ul li{
+        font-size: 15px !important;
+    }
+    .turtle .turtle-img{
+        width: 220px !important;
+    }
+}
+/* *************************************************** */
+@media (max-width: 600px) {
+    .home h1{
+        font-size: 35px !important;
+    }
+    .home p{
+        font-size: 15px !important;
+    }
+    .turtle p{
+        font-size: 14px !important;
+        line-height: 25px !important;
+    }
+    .turtle ul li{
+        font-size: 13px !important;
+    }
+    .turtle .turtle-img{
+        width: 200px !important;
+    }
+    .turtle .bg-left-img{
+        display: none;
+    }
+}
+/* *************************************************** */
+@media (max-width: 450px){
+    .home h1{
+        font-size: 28px !important;
+    }
+    .home p{
+        font-size: 12px !important;
+    }
+    .turtle h2{
+        font-size: 28px !important;
+    }
+    .turtle p{
+        font-size: 14px !important;
+        line-height: 25px !important;
+    }
+    .turtle ul li{
+        font-size: 13px !important;
+    }
+    .turtle .turtle-img{
+        width: 200px !important;
+    }
+    .turtle .bg-left-img{
+        display: none;
+    }
+}
+/* *************************************************** */
+@media (max-width: 400px){
+    .home h1{
+        font-size: 25px !important;
+    }
+    .home h1 {
+        & span {
+            &::after {
+                height: 5px !important;
+                bottom: 2px !important;
+            }
+        }
+    }
+    .home p{
+        font-size: 10px !important;
+    }
+    .turtle h2{
+        font-size: 25px !important;
+    }
+    .turtle p{
+        font-size: 14px !important;
+        line-height: 25px !important;
+    }
+    .turtle ul li{
+        font-size: 13px !important;
+    }
+    .turtle .turtle-img{
+        width: 200px !important;
+    }
+    .turtle .bg-left-img{
+        display: none;
+    }
+}
+/* *************************************************** */
+@media (max-width: 330px){
+    .home h1{
+        font-size: 20px !important;
+    }
+    .home h1 {
+        & span {
+            &::after {
+                height: 4px !important;
+                bottom: 2px !important;
+            }
+        }
+    }
+    .home p{
+        font-size: 9px !important;
+    }
+    .turtle h2{
+        font-size: 20px !important;
+    }
+    .turtle p{
+        font-size: 13px !important;
+        line-height: 25px !important;
+    }
+    .turtle ul li{
+        font-size: 12px !important;
+    }
+    .turtle .turtle-img{
+        width: 200px !important;
+    }
+    .turtle .bg-left-img{
+        display: none;
+    }
+}
